@@ -1,0 +1,25 @@
+LISTA DE DESORDENES MENTALES
+
+'MDD' (Major Depressive Disorder): También conocido como trastorno depresivo mayor o depresión clínica, es un trastorno del estado de ánimo caracterizado por una profunda tristeza, pérdida de interés o placer en las actividades y otros síntomas que afectan la capacidad de una persona para funcionar en la vida diaria.
+
+'ASD' (Autism Spectrum Disorder): Se refiere al trastorno del espectro autista, que es un trastorno del neurodesarrollo que afecta la comunicación, la interacción social y el comportamiento de una persona. Puede variar en gravedad y síntomas.
+
+'Loneliness': En este caso, se menciona la soledad, que no es un trastorno mental en sí, pero puede estar relacionada con problemas de salud mental cuando es crónica y debilitante.
+
+'Bipolar': Se refiere al trastorno bipolar, que implica cambios extremos en el estado de ánimo, incluyendo episodios maníacos (elevado) y episodios depresivos (deprimido).
+
+'Anxiety': Hace referencia a los trastornos de ansiedad, que incluyen trastornos como el trastorno de ansiedad generalizada (TAG) y el trastorno de pánico, caracterizados por la ansiedad excesiva y preocupación.
+
+'PTSD' (Post-Traumatic Stress Disorder): Trastorno de estrés postraumático, que se desarrolla después de una experiencia traumática y puede involucrar síntomas como pesadillas, flashbacks y evitación de situaciones relacionadas con el trauma.
+
+'Sleep Disord' (Sleep Disorder): Se refiere a los trastornos del sueño, que pueden incluir insomnio, apnea del sueño y otros trastornos que afectan la calidad del sueño.
+
+'Psychot Depresn' (Psychotic Depression): Depresión psicótica, que es una forma de depresión mayor que involucra síntomas psicóticos como alucinaciones o delirios.
+
+'ED' (Eating Disorder): Trastornos de la alimentación, que incluyen anorexia nerviosa, bulimia nerviosa y otros trastornos relacionados con la alimentación.
+
+'ADHD' (Attention-Deficit/Hyperactivity Disorder): Trastorno por déficit de atención con hiperactividad, un trastorno del neurodesarrollo que afecta la atención, la impulsividad y la hiperactividad.
+
+'PDD' (Pervasive Developmental Disorder): Se refiere a los trastornos generalizados del desarrollo, que incluyen el autismo y otros trastornos del espectro autista.
+
+'OCD' (Obsessive-Compulsive Disorder): Trastorno obsesivo-compulsivo, caracterizado por pensamientos obsesivos y comportamientos compulsivos repetitivos.

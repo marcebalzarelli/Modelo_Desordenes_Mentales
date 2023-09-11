@@ -1,0 +1,59 @@
+DICCIONARIO DE DATOS
+
+-age (Edad): La edad del individuo cuyos datos se registran en el estudio.
+
+-feeling.nervous (Sentimiento de nerviosismo): Una medida que indica la frecuencia o intensidad con la que la persona experimenta nerviosismo.
+
+-panic (Pánico): Una medida que indica la frecuencia o intensidad con la que la persona experimenta ataques de pánico.
+
+-breathing.rapidly (Respiración rápida): Una medida que indica la frecuencia o intensidad con la que la persona experimenta respiración rápida o hiperventilación.
+
+-sweating (Transpiración): Una medida que indica la frecuencia o intensidad con la que la persona experimenta sudoración excesiva.
+
+-trouble.in.concentration (Dificultad para concentrarse): Una medida que indica la frecuencia o intensidad con la que la persona tiene dificultades para concentrarse.
+
+-trouble.sleeping (Problemas para dormir): Una medida que indica la frecuencia o intensidad con la que la persona experimenta problemas para conciliar el sueño o mantenerlo.
+
+-trouble.with.work (Problemas en el trabajo): Una medida que indica la frecuencia o intensidad con la que la persona enfrenta dificultades en su desempeño laboral debido a su salud mental.
+
+-hopelessness (Desesperanza): Una medida que indica la frecuencia o intensidad con la que la persona se siente desesperanzada.
+
+-anger (Ira): Una medida que indica la frecuencia o intensidad con la que la persona experimenta sentimientos de ira.
+
+-over.react (Sobrerreacción): Una medida que indica la frecuencia o intensidad con la que la persona tiende a reaccionar exageradamente a situaciones.
+
+-change.in.eating (Cambios en la alimentación): Una medida que indica la frecuencia o intensidad de los cambios en los patrones alimenticios de la persona.
+
+-suicidal.thought (Pensamientos suicidas): Una medida que indica la frecuencia o intensidad con la que la persona experimenta pensamientos suicidas.
+
+-feeling.tired (Sentimiento de cansancio): Una medida que indica la frecuencia o intensidad con la que la persona se siente cansada.
+
+-close.friend (Amigo cercano): Una medida que indica la presencia o ausencia de un amigo cercano en la vida de la persona.
+
+-social.media.addiction (Adicción a las redes sociales): Una medida que indica la frecuencia o intensidad con la que la persona se siente adicta a las redes sociales.
+
+-weight.gain (Aumento de peso): Una medida que indica la frecuencia o intensidad con la que la persona experimenta un aumento de peso no deseado.
+
+-introvert (Introversión): Una medida que indica el grado de introversión de la persona.
+
+-popping.up.stressful.memory (Recuerdo de momentos estresantes): Una medida que indica la frecuencia o intensidad con la que la persona experimenta recuerdos de momentos estresantes.
+
+-nightmares (Pesadillas): Una medida que indica la frecuencia o intensidad con la que la persona tiene pesadillas.
+
+-avoids.people.or.activities (Evita personas o actividades): Una medida que indica la frecuencia o intensidad con la que la persona evita interactuar con otras personas o participar en ciertas actividades.
+
+-feeling.negative (Sentimiento negativo): Una medida que indica la frecuencia o intensidad con la que la persona experimenta sentimientos negativos en general.
+
+-trouble.concentrating (Dificultad para concentrarse): Una medida que indica la frecuencia o intensidad con la que la persona tiene dificultades para concentrarse.
+
+-blaming.yourself (Autoacusación): Una medida que indica la frecuencia o intensidad con la que la persona se culpa a sí misma por las cosas.
+
+-hallucinations (Alucinaciones): Una medida que indica la presencia o ausencia de alucinaciones en la experiencia de la persona.
+
+-repetitive.behaviour (Comportamiento repetitivo): Una medida que indica la frecuencia o intensidad con la que la persona se involucra en comportamientos repetitivos.
+
+-seasonally (Estacional): Una indicación de si los síntomas varían estacionalmente.
+
+-increased.energy (Aumento de energía): Una medida que indica la frecuencia o intensidad con la que la persona experimenta un aumento inusual de energía.
+
+-Disorder: Esta columna indica la presencia o ausencia de un trastorno mental específico.
