@@ -97,22 +97,6 @@ st.image(imagen_url, caption='Gráfica de Árbol de decisión', use_column_width
 
 nombres_clases = ["ADHD", "ASD", "ED", "Loneliness", "MDD", "OCD", "PDD", "PTSD", "anxiety", "bipolar", "psychot depresn", "sleep disord"]
 
-label_encoder = LabelEncoder()
-y_train_encoded = label_encoder.fit_transform(y_train)
-
-m = dtreeviz(# Gráfico de árbol de decisión
-    model, 
-    X_train, 
-    y_train_encoded,
-    target_name= nombres_clases,
-    feature_names=list(X_train.columns)
-)
-
-if st.button('Descargar Árbol de Decisión'):# Agrego un botón para permitir a los usuarios descargar el gráfico
-    m.save("arbol_decision.svg")
-    st.success('El Árbol de Decisión ha sido descargado como imagen (arbol_decision.svg).')
-
-
 # Elijo las columnas relevantes para el gráfico de radar
 columns = ['sensación.de.nerviosismo', 'panico', 'respiración.rápida', 'sudoración', 'dificultad.en.la.concentración',
            'dificultad.para.dormir', 'dificultad.con.el.trabajo', 'desesperanza', 'enojo', 'reaccion.exagerada', 'cambio.en.la.alimentación',
