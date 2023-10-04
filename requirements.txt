@@ -7,3 +7,4 @@ scikit-learn
 dtreeviz
 seaborn
 matplotlib
+openpyxl
