@@ -99,8 +99,8 @@ pdf_url = "https://github.com/marcebalzarelli/Modelo_Desordenes_Mentales/raw/mai
 
 button_label = "Descargar PDF"# Nombre del botón para descargar el PDF
 
-if st.button(button_label):# Creo un botón que descargue el PDF
-    st.markdown(pdf_url, unsafe_allow_html=True, key="pdf")
+if st.button(button_label):  # Creo un botón que descargue el PDF
+    st.markdown(pdf_url, unsafe_allow_html=True)
     st.success("El archivo PDF se ha descargado.")
 
 nombres_clases = ["ADHD", "ASD", "ED", "Loneliness", "MDD", "OCD", "PDD", "PTSD", "anxiety", "bipolar", "psychot depresn", "sleep disord"]
