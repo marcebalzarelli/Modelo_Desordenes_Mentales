@@ -35,6 +35,10 @@ El proyecto se desarrolló siguiendo los siguientes pasos:
 
 6. **Guardado del Modelo**: Una vez que se obtuvieron los mejores hiperparámetros, se entrenó un modelo final y se guardó utilizando `joblib` para su uso posterior.
 
+## Despliegue en Streamlit
+
+El modelo entrenado se implementó en una aplicación web interactiva utilizando Streamlit. La aplicación permite a los usuarios ingresar información sobre síntomas y características personales para predecir posibles desórdenes mentales. Link de la app de Streamlit: https://modelodesordenesmentales.streamlit.app/
+
 ## Instrucciones de Uso
 
 Si deseas utilizar este modelo para realizar predicciones en nuevos datos, puedes seguir estos pasos:
